@@ -8,9 +8,10 @@
   display: flex;
   /* margin: auto; */
   /* margin-top: 10rem; */
-  flex-direction: column;
+  /* flex-direction: column; */
   justify-content: center;
   align-items: center;
+  height: 100vh;
 }
 
 .form-section {
